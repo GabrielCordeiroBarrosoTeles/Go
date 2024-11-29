@@ -9,5 +9,7 @@ import (
 func main() {
 	fmt.Println("Olá mundo!")
 }
+// Como execultar?
+// Digita no terminal...
 // go run primeiro.go
 
